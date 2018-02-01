@@ -1,0 +1,15 @@
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\CsgoAPI.dll.config
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\CsgoAPI.dll
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\CsgoAPI.pdb
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\EntityFramework.dll
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\EntityFramework.xml
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\obj\Debug\CsgoAPI.csprojResolveAssemblyReference.cache
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\obj\Debug\CsgoAPI.csproj.CoreCompileInputs.cache
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\obj\Debug\CsgoAPI.pdb
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\WebDriver.dll
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\HtmlAgilityPack.xml
+C:\Users\joaovictor\source\repos\CsgoAPI\CsgoAPI\bin\Debug\WebDriver.xml

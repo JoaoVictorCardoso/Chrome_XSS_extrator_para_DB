@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsgoAPI", "CsgoAPI\CsgoAPI.csproj", "{1D0D70A3-EFCA-4A78-9391-DE975BB3A91D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{48FB4272-4B79-479D-A023-1037CA242464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D0D70A3-EFCA-4A78-9391-DE975BB3A91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0D70A3-EFCA-4A78-9391-DE975BB3A91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0D70A3-EFCA-4A78-9391-DE975BB3A91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0D70A3-EFCA-4A78-9391-DE975BB3A91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FB4272-4B79-479D-A023-1037CA242464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FB4272-4B79-479D-A023-1037CA242464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FB4272-4B79-479D-A023-1037CA242464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FB4272-4B79-479D-A023-1037CA242464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B6A9A73-7484-4985-97A5-276AA8F1C696}
+	EndGlobalSection
+EndGlobal
